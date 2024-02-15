@@ -1,0 +1,19 @@
+{
+  "name": "mcbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/collection": "^1.0.0",
+    "dotenv": "^16.0.1",
+    "mineflayer": "^4.5.1",
+    "mineflayer-pathfinder": "^2.4.0",
+    "prismarine-viewer": "^1.23.0"
+  }
+}
